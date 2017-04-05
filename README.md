@@ -1,3 +1,12 @@
 # mysql-demo
 
-a [Sails](http://sailsjs.org) application
+## Installtion
+
+Create a database *mysql_demo* in your mysql server.
+
+## To install dependencies
+`npm install`
+
+## Run the application
+
+`sails lift`
